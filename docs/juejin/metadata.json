@@ -1,0 +1,19 @@
+{
+  "name": "镜选",
+  "summary": "在浏览器里试戴73款镜框，调大小、换风格，把喜欢的三副并排看。",
+  "app_url": "https://e.ilove-gis.com/",
+  "repo_url": "https://github.com/abining/eyewear-assistant",
+  "platform": "Web",
+  "commercial_model": "完全免费",
+  "license_scope": "本项目新增内容（代码、文档及自有资源）仅限非商业使用（PolyForm Noncommercial 1.0.0）；第三方组件遵循各自许可，见 THIRD_PARTY_NOTICES.md。",
+  "development_tools": [
+    "Codex",
+    "Antigravity",
+    "Blender"
+  ],
+  "assets": [
+    "../images/logo.png",
+    "../images/reference-preview.png",
+    "../images/comparison-preview.png"
+  ]
+}

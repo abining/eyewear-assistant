@@ -1,0 +1,41 @@
+node_modules/
+dist/
+dist-lib/
+public/mediapipe/
+*.tsbuildinfo
+
+# Uploaded photos and generated binary artifacts are ignored by default.
+public/models/
+*.glb
+*.jpg
+*.jpeg
+*.png
+
+# Original sample frames generated for this application.
+!public/models/
+!public/models/models.json
+!public/models/*.glb
+!public/models/previews/
+!public/models/previews/*.png
+.wrangler/
+.DS_Store
+*.blend1
+
+# Vercel project link (`vercel link`)
+.vercel/
+.vercel
+.env*
+
+# Local execution evidence and reproducible intermediate assets.
+.agent/
+docs/juejin/writing-notes.md
+assets/tim-frames/*.blend
+assets/tim-frames/rendered-png/
+assets/tim-frames/*.log
+assets/tim-frames/run-*.json
+assets/tim-frames/validation.json
+assets/tim-frames/bridge-validation.json
+assets/tim-frames/bridge-intersections.json
+
+# Public screenshots use only the built-in reference mannequin.
+!docs/images/*.png

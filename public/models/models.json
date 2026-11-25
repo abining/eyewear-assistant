@@ -1,0 +1,1935 @@
+{
+  "models": [
+    {
+      "id": "aurora-round",
+      "label": "晨光细金圆框",
+      "file": "aurora-round.glb",
+      "color": "香槟金",
+      "material": "细金属",
+      "lens_width": 49,
+      "bridge_width": 20,
+      "temple_length": 138,
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "preview": "previews/aurora-round.webp"
+    },
+    {
+      "id": "noir-rectangle",
+      "label": "墨线经典方框",
+      "file": "noir-rectangle.glb",
+      "color": "哑光黑",
+      "material": "醋酸纤维质感",
+      "lens_width": 53,
+      "bridge_width": 18,
+      "temple_length": 142,
+      "shape": "rectangle",
+      "styles": [
+        "classic",
+        "bold"
+      ],
+      "palette": "black",
+      "preview": "previews/noir-rectangle.webp"
+    },
+    {
+      "id": "mist-clear",
+      "label": "雾光透明轻框",
+      "file": "mist-clear.glb",
+      "color": "透明香槟",
+      "material": "透明醋酸纤维质感",
+      "lens_width": 51,
+      "bridge_width": 19,
+      "temple_length": 140,
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "preview": "previews/mist-clear.webp"
+    },
+    {
+      "id": "cocoa-cat-eye",
+      "label": "可可上扬猫眼",
+      "file": "cocoa-cat-eye.glb",
+      "color": "暖棕",
+      "material": "醋酸纤维质感",
+      "lens_width": 52,
+      "bridge_width": 18,
+      "temple_length": 140,
+      "shape": "cat-eye",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "brown",
+      "preview": "previews/cocoa-cat-eye.webp"
+    },
+    {
+      "id": "tim-01",
+      "label": "01 · 黑色矩形",
+      "color": "柔黑",
+      "material": "醋酸纤维外观",
+      "shape": "rectangle",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        0.15
+      ],
+      "file": "tim-01-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 0.15,
+        "label": "开场黑色矩形细框"
+      },
+      "preview": "previews/tim-01-v1.webp",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。"
+    },
+    {
+      "id": "tim-02",
+      "label": "02 · 细金属椭圆",
+      "color": "浅金",
+      "material": "细金属外观",
+      "shape": "oval",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        3.1
+      ],
+      "file": "tim-02-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 3.1,
+        "label": "细金属椭圆光学框"
+      },
+      "preview": "previews/tim-02-v1.webp",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。"
+    },
+    {
+      "id": "tim-03",
+      "label": "03 · 银镜一体盾",
+      "color": "银色镜面",
+      "material": "银镜镀层与轻量支架外观",
+      "shape": "shield",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        3.6
+      ],
+      "file": "tim-03-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 3.6,
+        "label": "银色镜面一体盾形镜"
+      },
+      "preview": "previews/tim-03-v1.webp",
+      "description": "依据视频近似重建银色一体镜面；曲率、鼻部切口和隐藏镜腿为示意，不对应确切商品尺寸。"
+    },
+    {
+      "id": "tim-04",
+      "label": "04 · 钴蓝运动框",
+      "color": "钴蓝",
+      "material": "亮蓝聚合物外观",
+      "shape": "wraparound",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "blue",
+      "temple_length": 140,
+      "reference_times": [
+        4.0
+      ],
+      "file": "tim-04-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 17,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 4.0,
+        "label": "蓝色宽边运动护目框"
+      },
+      "preview": "previews/tim-04-v1.webp",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。"
+    },
+    {
+      "id": "tim-05",
+      "label": "05 · 黑色椭圆",
+      "color": "柔黑",
+      "material": "醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        4.35
+      ],
+      "file": "tim-05-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 4.35,
+        "label": "黑色椭圆全框"
+      },
+      "preview": "previews/tim-05-v1.webp",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。"
+    },
+    {
+      "id": "tim-06",
+      "label": "06 · 白框彩镜盾",
+      "color": "白框 / 红金镜片",
+      "material": "白色聚合物与彩色镀层外观",
+      "shape": "shield",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "white",
+      "temple_length": 140,
+      "reference_times": [
+        4.65
+      ],
+      "file": "tim-06-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 4.65,
+        "label": "白色边框与红金彩镜运动盾"
+      },
+      "preview": "previews/tim-06-v1.webp",
+      "description": "近似白框彩色运动护目镜；彩镜色区为程序材质示意，未复制商标和视频纹理，实际曲率与尺寸未知。"
+    },
+    {
+      "id": "tim-07",
+      "label": "07 · 红色太阳镜",
+      "color": "亮红 / 烟色镜片",
+      "material": "红色醋酸纤维与深色镜片外观",
+      "shape": "rectangle",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "red",
+      "temple_length": 140,
+      "reference_times": [
+        4.85
+      ],
+      "file": "tim-07-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 4.85,
+        "label": "鲜红矩形太阳镜"
+      },
+      "preview": "previews/tim-07-v1.webp",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。"
+    },
+    {
+      "id": "tim-08",
+      "label": "08 · 水晶椭圆",
+      "color": "晶透冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        5.05,
+        5.1005,
+        5.1172
+      ],
+      "file": "tim-08-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.05,
+        "label": "透明椭圆轻框"
+      },
+      "preview": "previews/tim-08-v1.webp",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。"
+    },
+    {
+      "id": "tim-09",
+      "label": "09 · 窄黑矩形",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "rectangle",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.1505,
+        5.1838,
+        5.2172,
+        7.9838,
+        8.0172
+      ],
+      "file": "tim-09-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.1505,
+        "label": "窄黑矩形"
+      },
+      "preview": "previews/tim-09-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-10",
+      "label": "10 · 水晶大圆",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        5.2505,
+        5.2838,
+        7.5505,
+        8.0505,
+        8.0838
+      ],
+      "file": "tim-10-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.2505,
+        "label": "水晶大圆"
+      },
+      "preview": "previews/tim-10-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-11",
+      "label": "11 · 紫镜运动盾",
+      "color": "透明白 / 紫蓝镜片",
+      "material": "透明醋酸纤维外观",
+      "shape": "shield",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "blue",
+      "temple_length": 140,
+      "reference_times": [
+        5.3172,
+        8.1172
+      ],
+      "file": "tim-11-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.3172,
+        "label": "紫镜运动盾"
+      },
+      "preview": "previews/tim-11-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-12",
+      "label": "12 · 无框浅椭圆",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "shape": "rimless",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        5.3505,
+        5.3838,
+        5.4172,
+        8.1505,
+        8.1838,
+        8.2172
+      ],
+      "file": "tim-12-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.3505,
+        "label": "无框浅椭圆"
+      },
+      "preview": "previews/tim-12-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-13",
+      "label": "13 · 无框细长方",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "shape": "rimless",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        5.4505,
+        7.8172,
+        7.8505
+      ],
+      "file": "tim-13-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.4505,
+        "label": "无框细长方"
+      },
+      "preview": "previews/tim-13-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-14",
+      "label": "14 · 无框柔角方",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "shape": "rimless",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        5.4838,
+        5.5172,
+        7.8838
+      ],
+      "file": "tim-14-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.4838,
+        "label": "无框柔角方"
+      },
+      "preview": "previews/tim-14-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-15",
+      "label": "15 · 无框宽矩形",
+      "color": "淡金支架",
+      "material": "无框镜片与细金属支架外观",
+      "shape": "rimless",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        5.5505,
+        5.5838
+      ],
+      "file": "tim-15-v1.glb",
+      "lens_width": 57,
+      "bridge_width": 17,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.5505,
+        "label": "无框宽矩形"
+      },
+      "preview": "previews/tim-15-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-16",
+      "label": "16 · 黑色柔角小方",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.6172
+      ],
+      "file": "tim-16-v1.glb",
+      "lens_width": 52,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.6172,
+        "label": "黑色柔角小方"
+      },
+      "preview": "previews/tim-16-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-17",
+      "label": "17 · 厚黑圆框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.6505
+      ],
+      "file": "tim-17-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.6505,
+        "label": "厚黑圆框"
+      },
+      "preview": "previews/tim-17-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-18",
+      "label": "18 · 黑色窄方框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "rectangle",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.6838
+      ],
+      "file": "tim-18-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.6838,
+        "label": "黑色窄方框"
+      },
+      "preview": "previews/tim-18-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-19",
+      "label": "19 · 透灰上扬椭圆",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "cat-eye",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        5.7172
+      ],
+      "file": "tim-19-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.7172,
+        "label": "透灰上扬椭圆"
+      },
+      "preview": "previews/tim-19-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-20",
+      "label": "20 · 黑金细椭圆",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.7505
+      ],
+      "file": "tim-20-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.7505,
+        "label": "黑金细椭圆"
+      },
+      "preview": "previews/tim-20-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-21",
+      "label": "21 · 透明细矩形",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "rectangle",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        5.7838
+      ],
+      "file": "tim-21-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.7838,
+        "label": "透明细矩形"
+      },
+      "preview": "previews/tim-21-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-22",
+      "label": "22 · 黑圆钥匙孔",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.8172
+      ],
+      "file": "tim-22-v1.glb",
+      "lens_width": 51,
+      "bridge_width": 25,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.8172,
+        "label": "黑圆钥匙孔"
+      },
+      "preview": "previews/tim-22-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-23",
+      "label": "23 · 烟灰直边方框",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "rectangle",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        5.8505
+      ],
+      "file": "tim-23-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.8505,
+        "label": "烟灰直边方框"
+      },
+      "preview": "previews/tim-23-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-24",
+      "label": "24 · 黑色平顶方框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.8838
+      ],
+      "file": "tim-24-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.8838,
+        "label": "黑色平顶方框"
+      },
+      "preview": "previews/tim-24-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-25",
+      "label": "25 · 浅金大圆框",
+      "color": "浅金",
+      "material": "细金属外观",
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        5.9172,
+        5.9505
+      ],
+      "file": "tim-25-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.9172,
+        "label": "浅金大圆框"
+      },
+      "preview": "previews/tim-25-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-26",
+      "label": "26 · 黑银直眉方框",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        5.9838
+      ],
+      "file": "tim-26-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 5.9838,
+        "label": "黑银直眉方框"
+      },
+      "preview": "previews/tim-26-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-27",
+      "label": "27 · 双桥金属飞行员",
+      "color": "银灰",
+      "material": "细金属外观",
+      "shape": "aviator",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        6.0172,
+        6.0505
+      ],
+      "file": "tim-27-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.0172,
+        "label": "双桥金属飞行员"
+      },
+      "preview": "previews/tim-27-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-28",
+      "label": "28 · 黑色圆角波士顿",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.0838
+      ],
+      "file": "tim-28-v1.glb",
+      "lens_width": 52,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.0838,
+        "label": "黑色圆角波士顿"
+      },
+      "preview": "previews/tim-28-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-29",
+      "label": "29 · 深茶眉线方框",
+      "color": "深茶 / 银",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "brown",
+      "temple_length": 140,
+      "reference_times": [
+        6.1172
+      ],
+      "file": "tim-29-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.1172,
+        "label": "深茶眉线方框"
+      },
+      "preview": "previews/tim-29-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-30",
+      "label": "30 · 厚黑柔圆框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.1505
+      ],
+      "file": "tim-30-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.1505,
+        "label": "厚黑柔圆框"
+      },
+      "preview": "previews/tim-30-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-31",
+      "label": "31 · 细银圆飞行员",
+      "color": "银灰",
+      "material": "细金属外观",
+      "shape": "aviator",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        6.1838,
+        6.2172
+      ],
+      "file": "tim-31-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.1838,
+        "label": "细银圆飞行员"
+      },
+      "preview": "previews/tim-31-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-32",
+      "label": "32 · 烟晶窄矩形",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "rectangle",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        6.2505,
+        8.2505
+      ],
+      "file": "tim-32-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.2505,
+        "label": "烟晶窄矩形"
+      },
+      "preview": "previews/tim-32-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-33",
+      "label": "33 · 烟晶大方框",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        6.2838,
+        8.2838
+      ],
+      "file": "tim-33-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.2838,
+        "label": "烟晶大方框"
+      },
+      "preview": "previews/tim-33-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-34",
+      "label": "34 · 宽边黑方框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.3172,
+        8.3172
+      ],
+      "file": "tim-34-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.3172,
+        "label": "宽边黑方框"
+      },
+      "preview": "previews/tim-34-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-35",
+      "label": "35 · 茶色柔椭圆",
+      "color": "烟茶棕",
+      "material": "半透明醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "brown",
+      "temple_length": 140,
+      "reference_times": [
+        6.3505,
+        8.3505
+      ],
+      "file": "tim-35-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.3505,
+        "label": "茶色柔椭圆"
+      },
+      "preview": "previews/tim-35-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-36",
+      "label": "36 · 黑银弧眉方框",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.3838,
+        8.3838
+      ],
+      "file": "tim-36-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.3838,
+        "label": "黑银弧眉方框"
+      },
+      "preview": "previews/tim-36-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-37",
+      "label": "37 · 黑色微上扬方框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.4172,
+        8.4172
+      ],
+      "file": "tim-37-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.4172,
+        "label": "黑色微上扬方框"
+      },
+      "preview": "previews/tim-37-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-38",
+      "label": "38 · 银灰圆角方框",
+      "color": "银灰",
+      "material": "细金属外观",
+      "shape": "square",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        6.4505,
+        6.4838,
+        8.4505
+      ],
+      "file": "tim-38-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.4505,
+        "label": "银灰圆角方框"
+      },
+      "preview": "previews/tim-38-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-39",
+      "label": "39 · 炭灰半透圆方",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        6.5172
+      ],
+      "file": "tim-39-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.5172,
+        "label": "炭灰半透圆方"
+      },
+      "preview": "previews/tim-39-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-40",
+      "label": "40 · 黑色小椭圆",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.5505,
+        7.5838
+      ],
+      "file": "tim-40-v1.glb",
+      "lens_width": 52,
+      "bridge_width": 24,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.5505,
+        "label": "黑色小椭圆"
+      },
+      "preview": "previews/tim-40-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-41",
+      "label": "41 · 晶茶柔圆框",
+      "color": "透明浅茶",
+      "material": "透明醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "brown",
+      "temple_length": 140,
+      "reference_times": [
+        6.5838,
+        7.6172
+      ],
+      "file": "tim-41-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.5838,
+        "label": "晶茶柔圆框"
+      },
+      "preview": "previews/tim-41-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-42",
+      "label": "42 · 细黑波士顿",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.6172,
+        7.6505
+      ],
+      "file": "tim-42-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.6172,
+        "label": "细黑波士顿"
+      },
+      "preview": "previews/tim-42-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-43",
+      "label": "43 · 细金宽圆框",
+      "color": "浅金",
+      "material": "细金属外观",
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        6.6505,
+        7.6838
+      ],
+      "file": "tim-43-v1.glb",
+      "lens_width": 56,
+      "bridge_width": 17,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.6505,
+        "label": "细金宽圆框"
+      },
+      "preview": "previews/tim-43-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-44",
+      "label": "44 · 黑色上扬波士顿",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "cat-eye",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.6838,
+        7.7172
+      ],
+      "file": "tim-44-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.6838,
+        "label": "黑色上扬波士顿"
+      },
+      "preview": "previews/tim-44-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-45",
+      "label": "45 · 浅金柔方框",
+      "color": "浅金",
+      "material": "细金属外观",
+      "shape": "square",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        6.7172,
+        7.7505
+      ],
+      "file": "tim-45-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.7172,
+        "label": "浅金柔方框"
+      },
+      "preview": "previews/tim-45-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-46",
+      "label": "46 · 古金椭圆框",
+      "color": "古金",
+      "material": "细金属外观",
+      "shape": "oval",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        6.7505,
+        7.7838
+      ],
+      "file": "tim-46-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.7505,
+        "label": "古金椭圆框"
+      },
+      "preview": "previews/tim-46-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-47",
+      "label": "47 · 黑眉宽方框",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.7838
+      ],
+      "file": "tim-47-v1.glb",
+      "lens_width": 56,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.7838,
+        "label": "黑眉宽方框"
+      },
+      "preview": "previews/tim-47-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-48",
+      "label": "48 · 黑金细眉椭圆",
+      "color": "黑金",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.8172
+      ],
+      "file": "tim-48-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.8172,
+        "label": "黑金细眉椭圆"
+      },
+      "preview": "previews/tim-48-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-49",
+      "label": "49 · 细黑柔椭圆",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.8505
+      ],
+      "file": "tim-49-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.8505,
+        "label": "细黑柔椭圆"
+      },
+      "preview": "previews/tim-49-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-50",
+      "label": "50 · 无框纤细矩形",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "shape": "rimless",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        6.8838
+      ],
+      "file": "tim-50-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 22,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.8838,
+        "label": "无框纤细矩形"
+      },
+      "preview": "previews/tim-50-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-51",
+      "label": "51 · 琥珀透明圆方",
+      "color": "烟茶棕",
+      "material": "半透明醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "classic"
+      ],
+      "palette": "brown",
+      "temple_length": 140,
+      "reference_times": [
+        6.9172
+      ],
+      "file": "tim-51-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.9172,
+        "label": "琥珀透明圆方"
+      },
+      "preview": "previews/tim-51-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-52",
+      "label": "52 · 细黑金属矩形",
+      "color": "墨黑",
+      "material": "细黑金属外观",
+      "shape": "rectangle",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.9505
+      ],
+      "file": "tim-52-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.9505,
+        "label": "细黑金属矩形"
+      },
+      "preview": "previews/tim-52-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-53",
+      "label": "53 · 小黑正圆框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        6.9838
+      ],
+      "file": "tim-53-v1.glb",
+      "lens_width": 48,
+      "bridge_width": 31,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 6.9838,
+        "label": "小黑正圆框"
+      },
+      "preview": "previews/tim-53-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-54",
+      "label": "54 · 黑色扁圆波士顿",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.0172
+      ],
+      "file": "tim-54-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.0172,
+        "label": "黑色扁圆波士顿"
+      },
+      "preview": "previews/tim-54-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-55",
+      "label": "55 · 水晶大波士顿",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        7.0505
+      ],
+      "file": "tim-55-v1.glb",
+      "lens_width": 56,
+      "bridge_width": 17,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.0505,
+        "label": "水晶大波士顿"
+      },
+      "preview": "previews/tim-55-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-56",
+      "label": "56 · 银底黑眉方框",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.0838
+      ],
+      "file": "tim-56-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.0838,
+        "label": "银底黑眉方框"
+      },
+      "preview": "previews/tim-56-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-57",
+      "label": "57 · 细金小椭圆",
+      "color": "浅金",
+      "material": "细金属外观",
+      "shape": "oval",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        7.1172
+      ],
+      "file": "tim-57-v1.glb",
+      "lens_width": 52,
+      "bridge_width": 24,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.1172,
+        "label": "细金小椭圆"
+      },
+      "preview": "previews/tim-57-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-58",
+      "label": "58 · 细金大圆方",
+      "color": "浅金",
+      "material": "细金属外观",
+      "shape": "square",
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "palette": "gold",
+      "temple_length": 140,
+      "reference_times": [
+        7.1505
+      ],
+      "file": "tim-58-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.1505,
+        "label": "细金大圆方"
+      },
+      "preview": "previews/tim-58-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-59",
+      "label": "59 · 黑银柔方框",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "shape": "browline",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.1838
+      ],
+      "file": "tim-59-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.1838,
+        "label": "黑银柔方框"
+      },
+      "preview": "previews/tim-59-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-60",
+      "label": "60 · 淡紫透明椭圆",
+      "color": "淡紫透明",
+      "material": "透明醋酸纤维外观",
+      "shape": "oval",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "blue",
+      "temple_length": 140,
+      "reference_times": [
+        7.2172
+      ],
+      "file": "tim-60-v1.glb",
+      "lens_width": 53,
+      "bridge_width": 23,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.2172,
+        "label": "淡紫透明椭圆"
+      },
+      "preview": "previews/tim-60-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-61",
+      "label": "61 · 黑金柔角矩形",
+      "color": "墨黑",
+      "material": "细黑金属与金色细节外观",
+      "shape": "rectangle",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.2505
+      ],
+      "file": "tim-61-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.2505,
+        "label": "黑金柔角矩形"
+      },
+      "preview": "previews/tim-61-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-62",
+      "label": "62 · 晶透金边圆框",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "palette": "clear",
+      "temple_length": 140,
+      "reference_times": [
+        7.2838
+      ],
+      "file": "tim-62-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.2838,
+        "label": "晶透金边圆框"
+      },
+      "preview": "previews/tim-62-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-63",
+      "label": "63 · 黑金弧线波士顿",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.3172,
+        7.9172
+      ],
+      "file": "tim-63-v1.glb",
+      "lens_width": 52,
+      "bridge_width": 24,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.3172,
+        "label": "黑金弧线波士顿"
+      },
+      "preview": "previews/tim-63-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-64",
+      "label": "64 · 宽厚黑色方框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.3505,
+        7.9505
+      ],
+      "file": "tim-64-v1.glb",
+      "lens_width": 56,
+      "bridge_width": 17,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.3505,
+        "label": "宽厚黑色方框"
+      },
+      "preview": "previews/tim-64-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-65",
+      "label": "65 · 细银矩形框",
+      "color": "银灰",
+      "material": "细金属外观",
+      "shape": "rectangle",
+      "styles": [
+        "minimal"
+      ],
+      "palette": "silver",
+      "temple_length": 140,
+      "reference_times": [
+        7.3838
+      ],
+      "file": "tim-65-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 21,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.3838,
+        "label": "细银矩形框"
+      },
+      "preview": "previews/tim-65-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-66",
+      "label": "66 · 黑色大上扬圆框",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "shape": "cat-eye",
+      "styles": [
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.4172
+      ],
+      "file": "tim-66-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 18,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.4172,
+        "label": "黑色大上扬圆框"
+      },
+      "preview": "previews/tim-66-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-67",
+      "label": "67 · 白色圆太阳镜",
+      "color": "象牙白 / 酒红镜片",
+      "material": "醋酸纤维外观",
+      "shape": "round",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "white",
+      "temple_length": 140,
+      "reference_times": [
+        7.4505
+      ],
+      "file": "tim-67-v1.glb",
+      "lens_width": 54,
+      "bridge_width": 20,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.4505,
+        "label": "白色圆太阳镜"
+      },
+      "preview": "previews/tim-67-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-68",
+      "label": "68 · 白色方太阳镜",
+      "color": "冷白 / 烟色镜片",
+      "material": "醋酸纤维外观",
+      "shape": "square",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "palette": "white",
+      "temple_length": 140,
+      "reference_times": [
+        7.4838
+      ],
+      "file": "tim-68-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.4838,
+        "label": "白色方太阳镜"
+      },
+      "preview": "previews/tim-68-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    },
+    {
+      "id": "tim-69",
+      "label": "69 · 黑色上扬太阳镜",
+      "color": "黑框 / 烟色镜片",
+      "material": "醋酸纤维外观",
+      "shape": "cat-eye",
+      "styles": [
+        "bold",
+        "classic"
+      ],
+      "palette": "black",
+      "temple_length": 140,
+      "reference_times": [
+        7.5172
+      ],
+      "file": "tim-69-v1.glb",
+      "lens_width": 55,
+      "bridge_width": 19,
+      "collection": "tim-video",
+      "reference": {
+        "url": "https://www.douyin.com/video/7711668743713066255",
+        "time": 7.5172,
+        "label": "黑色上扬太阳镜"
+      },
+      "preview": "previews/tim-69-v1.webp",
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。"
+    }
+  ]
+}

@@ -1,0 +1,2409 @@
+{
+  "status": "all-observed-appearances-mapped",
+  "models": [
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 37,
+      "gap": 18,
+      "rim": 1.7,
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "exponent": 3.4,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "material": "醋酸纤维外观",
+      "palette": "black",
+      "color": "柔黑",
+      "shape": "rectangle",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。",
+      "id": "tim-01",
+      "time": 0.15,
+      "label": "01 · 黑色矩形",
+      "referenceLabel": "开场黑色矩形细框",
+      "reference_times": [
+        0.15
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 36,
+      "gap": 21,
+      "rim": 0.75,
+      "rgb": [
+        0.52,
+        0.38,
+        0.19
+      ],
+      "exponent": 2,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "material": "细金属外观",
+      "palette": "gold",
+      "color": "浅金",
+      "shape": "oval",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。",
+      "id": "tim-02",
+      "time": 3.1,
+      "label": "02 · 细金属椭圆",
+      "referenceLabel": "细金属椭圆光学框",
+      "metal": 0.86,
+      "templeRadius": 0.85,
+      "reference_times": [
+        3.1
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 49,
+      "gap": 18,
+      "rim": 1.2,
+      "rgb": [
+        0.025,
+        0.028,
+        0.035
+      ],
+      "exponent": 3.4,
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "material": "银镜镀层与轻量支架外观",
+      "palette": "silver",
+      "color": "银色镜面",
+      "shape": "shield",
+      "description": "依据视频近似重建银色一体镜面；曲率、鼻部切口和隐藏镜腿为示意，不对应确切商品尺寸。",
+      "id": "tim-03",
+      "time": 3.6,
+      "label": "03 · 银镜一体盾",
+      "referenceLabel": "银色镜面一体盾形镜",
+      "design": "shield",
+      "lens": "silver",
+      "frontWidth": 144,
+      "reference_times": [
+        3.6
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 55,
+      "height": 39,
+      "gap": 17,
+      "rim": 3.3,
+      "rgb": [
+        0.004,
+        0.035,
+        0.48
+      ],
+      "exponent": 3.4,
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "material": "亮蓝聚合物外观",
+      "palette": "blue",
+      "color": "钴蓝",
+      "shape": "wraparound",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。",
+      "id": "tim-04",
+      "time": 4.0,
+      "label": "04 · 钴蓝运动框",
+      "referenceLabel": "蓝色宽边运动护目框",
+      "depth": 3.6,
+      "curve": 0.004,
+      "templeRadius": 2.6,
+      "reference_times": [
+        4.0
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 36,
+      "gap": 19,
+      "rim": 2.0,
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "exponent": 2.4,
+      "styles": [
+        "classic"
+      ],
+      "material": "醋酸纤维外观",
+      "palette": "black",
+      "color": "柔黑",
+      "shape": "oval",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。",
+      "id": "tim-05",
+      "time": 4.35,
+      "label": "05 · 黑色椭圆",
+      "referenceLabel": "黑色椭圆全框",
+      "studs": true,
+      "reference_times": [
+        4.35
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 39,
+      "gap": 18,
+      "rim": 2.2,
+      "rgb": [
+        0.85,
+        0.86,
+        0.83
+      ],
+      "exponent": 3.4,
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "material": "白色聚合物与彩色镀层外观",
+      "palette": "white",
+      "color": "白框 / 红金镜片",
+      "shape": "shield",
+      "description": "近似白框彩色运动护目镜；彩镜色区为程序材质示意，未复制商标和视频纹理，实际曲率与尺寸未知。",
+      "id": "tim-06",
+      "time": 4.65,
+      "label": "06 · 白框彩镜盾",
+      "referenceLabel": "白色边框与红金彩镜运动盾",
+      "design": "shield",
+      "lens": "fire",
+      "fullRim": true,
+      "frontWidth": 144,
+      "reference_times": [
+        4.65
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 40,
+      "gap": 19,
+      "rim": 3.0,
+      "rgb": [
+        0.58,
+        0.009,
+        0.025
+      ],
+      "exponent": 3.2,
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "material": "红色醋酸纤维与深色镜片外观",
+      "palette": "red",
+      "color": "亮红 / 烟色镜片",
+      "shape": "rectangle",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。",
+      "id": "tim-07",
+      "time": 4.85,
+      "label": "07 · 红色太阳镜",
+      "referenceLabel": "鲜红矩形太阳镜",
+      "lens": "dark",
+      "studs": true,
+      "reference_times": [
+        4.85
+      ]
+    },
+    {
+      "temple_length": 140,
+      "width": 54,
+      "height": 38,
+      "gap": 19,
+      "rim": 2.0,
+      "rgb": [
+        0.68,
+        0.77,
+        0.84
+      ],
+      "exponent": 2.5,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "material": "透明醋酸纤维外观",
+      "palette": "clear",
+      "color": "晶透冷灰",
+      "shape": "oval",
+      "description": "依据视频可见外观近似重建；镜腿与毫米尺寸为示意，不代表确切品牌、商品型号或授权。",
+      "id": "tim-08",
+      "time": 5.05,
+      "label": "08 · 水晶椭圆",
+      "referenceLabel": "透明椭圆轻框",
+      "alpha": 0.42,
+      "reference_times": [
+        5.05,
+        5.1005,
+        5.1172
+      ],
+      "sourceFrameIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "width": 55,
+      "height": 32,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 4,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.2,
+      "id": "tim-09",
+      "label": "09 · 窄黑矩形",
+      "time": 5.1505,
+      "referenceLabel": "窄黑矩形",
+      "sourceFrameIndices": [
+        2,
+        3,
+        4,
+        87,
+        88
+      ],
+      "reference_times": [
+        5.1505,
+        5.1838,
+        5.2172,
+        7.9838,
+        8.0172
+      ]
+    },
+    {
+      "width": 55,
+      "height": 46,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 2.2,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.66,
+        0.72,
+        0.75
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.43,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.65,
+      "id": "tim-10",
+      "label": "10 · 水晶大圆",
+      "time": 5.2505,
+      "referenceLabel": "水晶大圆",
+      "sourceFrameIndices": [
+        5,
+        6,
+        74,
+        89,
+        90
+      ],
+      "reference_times": [
+        5.2505,
+        5.2838,
+        7.5505,
+        8.0505,
+        8.0838
+      ]
+    },
+    {
+      "width": 54,
+      "height": 40,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 2.5,
+      "shape": "shield",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.74,
+        0.75,
+        0.82
+      ],
+      "palette": "blue",
+      "color": "透明白 / 紫蓝镜片",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.8,
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "rim": 1.5,
+      "design": "shield",
+      "lens": "violet",
+      "frontWidth": 146,
+      "fullRim": false,
+      "id": "tim-11",
+      "label": "11 · 紫镜运动盾",
+      "time": 5.3172,
+      "referenceLabel": "紫镜运动盾",
+      "sourceFrameIndices": [
+        7,
+        91
+      ],
+      "reference_times": [
+        5.3172,
+        8.1172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 31,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 2.25,
+      "shape": "rimless",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "design": "rimless",
+      "id": "tim-12",
+      "label": "12 · 无框浅椭圆",
+      "time": 5.3505,
+      "referenceLabel": "无框浅椭圆",
+      "sourceFrameIndices": [
+        8,
+        9,
+        10,
+        92,
+        93,
+        94
+      ],
+      "reference_times": [
+        5.3505,
+        5.3838,
+        5.4172,
+        8.1505,
+        8.1838,
+        8.2172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 29,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3.6,
+      "shape": "rimless",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "design": "rimless",
+      "id": "tim-13",
+      "label": "13 · 无框细长方",
+      "time": 5.4505,
+      "referenceLabel": "无框细长方",
+      "sourceFrameIndices": [
+        11,
+        82,
+        83
+      ],
+      "reference_times": [
+        5.4505,
+        7.8172,
+        7.8505
+      ]
+    },
+    {
+      "width": 55,
+      "height": 33,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3,
+      "shape": "rimless",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "design": "rimless",
+      "id": "tim-14",
+      "label": "14 · 无框柔角方",
+      "time": 5.4838,
+      "referenceLabel": "无框柔角方",
+      "sourceFrameIndices": [
+        12,
+        13,
+        84
+      ],
+      "reference_times": [
+        5.4838,
+        5.5172,
+        7.8838
+      ]
+    },
+    {
+      "width": 57,
+      "height": 31,
+      "gap": 17,
+      "temple_length": 140,
+      "exponent": 4.4,
+      "shape": "rimless",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.6,
+        0.53,
+        0.38
+      ],
+      "palette": "gold",
+      "color": "淡金支架",
+      "material": "无框镜片与细金属支架外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "design": "rimless",
+      "id": "tim-15",
+      "label": "15 · 无框宽矩形",
+      "time": 5.5505,
+      "referenceLabel": "无框宽矩形",
+      "sourceFrameIndices": [
+        14,
+        15
+      ],
+      "reference_times": [
+        5.5505,
+        5.5838
+      ]
+    },
+    {
+      "width": 52,
+      "height": 37,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 3.0,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.15,
+      "id": "tim-16",
+      "label": "16 · 黑色柔角小方",
+      "time": 5.6172,
+      "referenceLabel": "黑色柔角小方",
+      "sourceFrameIndices": [
+        16
+      ],
+      "reference_times": [
+        5.6172
+      ]
+    },
+    {
+      "width": 53,
+      "height": 46,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 2.1,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.5,
+      "studs": true,
+      "id": "tim-17",
+      "label": "17 · 厚黑圆框",
+      "time": 5.6505,
+      "referenceLabel": "厚黑圆框",
+      "sourceFrameIndices": [
+        17
+      ],
+      "reference_times": [
+        5.6505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 35,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 3.8,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.3,
+      "studs": true,
+      "id": "tim-18",
+      "label": "18 · 黑色窄方框",
+      "time": 5.6838,
+      "referenceLabel": "黑色窄方框",
+      "sourceFrameIndices": [
+        18
+      ],
+      "reference_times": [
+        5.6838
+      ]
+    },
+    {
+      "width": 55,
+      "height": 41,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 2.5,
+      "shape": "cat-eye",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.34,
+        0.31,
+        0.39
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.58,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.8,
+      "design": "cat",
+      "id": "tim-19",
+      "label": "19 · 透灰上扬椭圆",
+      "time": 5.7172,
+      "referenceLabel": "透灰上扬椭圆",
+      "sourceFrameIndices": [
+        19
+      ],
+      "reference_times": [
+        5.7172
+      ]
+    },
+    {
+      "width": 53,
+      "height": 35,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 2,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.55,
+      "browSlope": 0.001,
+      "studs": true,
+      "id": "tim-20",
+      "label": "20 · 黑金细椭圆",
+      "time": 5.7505,
+      "referenceLabel": "黑金细椭圆",
+      "sourceFrameIndices": [
+        20
+      ],
+      "reference_times": [
+        5.7505
+      ]
+    },
+    {
+      "width": 55,
+      "height": 34,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3.5,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.66,
+        0.72,
+        0.75
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.43,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.4,
+      "id": "tim-21",
+      "label": "21 · 透明细矩形",
+      "time": 5.7838,
+      "referenceLabel": "透明细矩形",
+      "sourceFrameIndices": [
+        21
+      ],
+      "reference_times": [
+        5.7838
+      ]
+    },
+    {
+      "width": 51,
+      "height": 43,
+      "gap": 25,
+      "temple_length": 140,
+      "exponent": 2.15,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.3,
+      "studs": true,
+      "id": "tim-22",
+      "label": "22 · 黑圆钥匙孔",
+      "time": 5.8172,
+      "referenceLabel": "黑圆钥匙孔",
+      "sourceFrameIndices": [
+        22
+      ],
+      "reference_times": [
+        5.8172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 37,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 3.7,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.22,
+        0.25,
+        0.27
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.68,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 2.0,
+      "id": "tim-23",
+      "label": "23 · 烟灰直边方框",
+      "time": 5.8505,
+      "referenceLabel": "烟灰直边方框",
+      "sourceFrameIndices": [
+        23
+      ],
+      "reference_times": [
+        5.8505
+      ]
+    },
+    {
+      "width": 53,
+      "height": 40,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 3.8,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.05,
+      "taper": 0.025,
+      "id": "tim-24",
+      "label": "24 · 黑色平顶方框",
+      "time": 5.8838,
+      "referenceLabel": "黑色平顶方框",
+      "sourceFrameIndices": [
+        24
+      ],
+      "reference_times": [
+        5.8838
+      ]
+    },
+    {
+      "width": 54,
+      "height": 46,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 2.2,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.49,
+        0.38,
+        0.23
+      ],
+      "palette": "gold",
+      "color": "浅金",
+      "material": "细金属外观",
+      "metal": 0.86,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "rim": 0.8,
+      "templeRadius": 0.85,
+      "id": "tim-25",
+      "label": "25 · 浅金大圆框",
+      "time": 5.9172,
+      "referenceLabel": "浅金大圆框",
+      "sourceFrameIndices": [
+        25,
+        26
+      ],
+      "reference_times": [
+        5.9172,
+        5.9505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 40,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 3.6,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.72,
+      "design": "browline",
+      "browRim": 2.2,
+      "id": "tim-26",
+      "label": "26 · 黑银直眉方框",
+      "time": 5.9838,
+      "referenceLabel": "黑银直眉方框",
+      "sourceFrameIndices": [
+        27
+      ],
+      "reference_times": [
+        5.9838
+      ]
+    },
+    {
+      "width": 55,
+      "height": 42,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3.2,
+      "shape": "aviator",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "细金属外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.9,
+      "templeRadius": 0.85,
+      "design": "aviator",
+      "doubleBridge": true,
+      "id": "tim-27",
+      "label": "27 · 双桥金属飞行员",
+      "time": 6.0172,
+      "referenceLabel": "双桥金属飞行员",
+      "sourceFrameIndices": [
+        28,
+        29
+      ],
+      "reference_times": [
+        6.0172,
+        6.0505
+      ]
+    },
+    {
+      "width": 52,
+      "height": 43,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 2.2,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.9,
+      "taper": 0.055,
+      "id": "tim-28",
+      "label": "28 · 黑色圆角波士顿",
+      "time": 6.0838,
+      "referenceLabel": "黑色圆角波士顿",
+      "sourceFrameIndices": [
+        30
+      ],
+      "reference_times": [
+        6.0838
+      ]
+    },
+    {
+      "width": 54,
+      "height": 42,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 3.0,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.06,
+        0.024,
+        0.016
+      ],
+      "palette": "brown",
+      "color": "深茶 / 银",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.72,
+      "design": "browline",
+      "browRim": 1.7,
+      "id": "tim-29",
+      "label": "29 · 深茶眉线方框",
+      "time": 6.1172,
+      "referenceLabel": "深茶眉线方框",
+      "sourceFrameIndices": [
+        31
+      ],
+      "reference_times": [
+        6.1172
+      ]
+    },
+    {
+      "width": 53,
+      "height": 42,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 2.05,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.2,
+      "taper": 0.045,
+      "id": "tim-30",
+      "label": "30 · 厚黑柔圆框",
+      "time": 6.1505,
+      "referenceLabel": "厚黑柔圆框",
+      "sourceFrameIndices": [
+        32
+      ],
+      "reference_times": [
+        6.1505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 47,
+      "gap": 21,
+      "temple_length": 140,
+      "exponent": 2.2,
+      "shape": "aviator",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "细金属外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.72,
+      "templeRadius": 0.85,
+      "design": "aviator",
+      "doubleBridge": true,
+      "id": "tim-31",
+      "label": "31 · 细银圆飞行员",
+      "time": 6.1838,
+      "referenceLabel": "细银圆飞行员",
+      "sourceFrameIndices": [
+        33,
+        34
+      ],
+      "reference_times": [
+        6.1838,
+        6.2172
+      ]
+    },
+    {
+      "width": 53,
+      "height": 37,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 3.5,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.29,
+        0.3,
+        0.28
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.6,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 2.1,
+      "id": "tim-32",
+      "label": "32 · 烟晶窄矩形",
+      "time": 6.2505,
+      "referenceLabel": "烟晶窄矩形",
+      "sourceFrameIndices": [
+        35,
+        95
+      ],
+      "reference_times": [
+        6.2505,
+        8.2505
+      ]
+    },
+    {
+      "width": 55,
+      "height": 46,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3.1,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.36,
+        0.32,
+        0.29
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.57,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 2.2,
+      "id": "tim-33",
+      "label": "33 · 烟晶大方框",
+      "time": 6.2838,
+      "referenceLabel": "烟晶大方框",
+      "sourceFrameIndices": [
+        36,
+        96
+      ],
+      "reference_times": [
+        6.2838,
+        8.2838
+      ]
+    },
+    {
+      "width": 55,
+      "height": 43,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3.8,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.8,
+      "taper": 0.04,
+      "id": "tim-34",
+      "label": "34 · 宽边黑方框",
+      "time": 6.3172,
+      "referenceLabel": "宽边黑方框",
+      "sourceFrameIndices": [
+        37,
+        97
+      ],
+      "reference_times": [
+        6.3172,
+        8.3172
+      ]
+    },
+    {
+      "width": 53,
+      "height": 39,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 2.4,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.12,
+        0.058,
+        0.027
+      ],
+      "palette": "brown",
+      "color": "烟茶棕",
+      "material": "半透明醋酸纤维外观",
+      "alpha": 0.72,
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.65,
+      "id": "tim-35",
+      "label": "35 · 茶色柔椭圆",
+      "time": 6.3505,
+      "referenceLabel": "茶色柔椭圆",
+      "sourceFrameIndices": [
+        38,
+        98
+      ],
+      "reference_times": [
+        6.3505,
+        8.3505
+      ]
+    },
+    {
+      "width": 53,
+      "height": 39,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 3.0,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.72,
+      "design": "browline",
+      "browRim": 1.85,
+      "id": "tim-36",
+      "label": "36 · 黑银弧眉方框",
+      "time": 6.3838,
+      "referenceLabel": "黑银弧眉方框",
+      "sourceFrameIndices": [
+        39,
+        99
+      ],
+      "reference_times": [
+        6.3838,
+        8.3838
+      ]
+    },
+    {
+      "width": 53,
+      "height": 42,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 3.35,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.4,
+      "browSlope": 0.001,
+      "id": "tim-37",
+      "label": "37 · 黑色微上扬方框",
+      "time": 6.4172,
+      "referenceLabel": "黑色微上扬方框",
+      "sourceFrameIndices": [
+        40,
+        100
+      ],
+      "reference_times": [
+        6.4172,
+        8.4172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 41,
+      "gap": 21,
+      "temple_length": 140,
+      "exponent": 3.6,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "细金属外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 1.05,
+      "templeRadius": 0.85,
+      "browSlope": 0.0005,
+      "id": "tim-38",
+      "label": "38 · 银灰圆角方框",
+      "time": 6.4505,
+      "referenceLabel": "银灰圆角方框",
+      "sourceFrameIndices": [
+        41,
+        42,
+        101
+      ],
+      "reference_times": [
+        6.4505,
+        6.4838,
+        8.4505
+      ]
+    },
+    {
+      "width": 53,
+      "height": 39,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 3.0,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.12,
+        0.14,
+        0.15
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.78,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.7,
+      "id": "tim-39",
+      "label": "39 · 炭灰半透圆方",
+      "time": 6.5172,
+      "referenceLabel": "炭灰半透圆方",
+      "sourceFrameIndices": [
+        43
+      ],
+      "reference_times": [
+        6.5172
+      ]
+    },
+    {
+      "width": 52,
+      "height": 34,
+      "gap": 24,
+      "temple_length": 140,
+      "exponent": 2,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.6,
+      "id": "tim-40",
+      "label": "40 · 黑色小椭圆",
+      "time": 6.5505,
+      "referenceLabel": "黑色小椭圆",
+      "sourceFrameIndices": [
+        44,
+        75
+      ],
+      "reference_times": [
+        6.5505,
+        7.5838
+      ]
+    },
+    {
+      "width": 53,
+      "height": 41,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 2.4,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.52,
+        0.41,
+        0.3
+      ],
+      "palette": "brown",
+      "color": "透明浅茶",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.5,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.8,
+      "id": "tim-41",
+      "label": "41 · 晶茶柔圆框",
+      "time": 6.5838,
+      "referenceLabel": "晶茶柔圆框",
+      "sourceFrameIndices": [
+        45,
+        76
+      ],
+      "reference_times": [
+        6.5838,
+        7.6172
+      ]
+    },
+    {
+      "width": 53,
+      "height": 40,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 2.25,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.45,
+      "taper": 0.07,
+      "id": "tim-42",
+      "label": "42 · 细黑波士顿",
+      "time": 6.6172,
+      "referenceLabel": "细黑波士顿",
+      "sourceFrameIndices": [
+        46,
+        77
+      ],
+      "reference_times": [
+        6.6172,
+        7.6505
+      ]
+    },
+    {
+      "width": 56,
+      "height": 43,
+      "gap": 17,
+      "temple_length": 140,
+      "exponent": 2.35,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.49,
+        0.38,
+        0.23
+      ],
+      "palette": "gold",
+      "color": "浅金",
+      "material": "细金属外观",
+      "metal": 0.86,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "id": "tim-43",
+      "label": "43 · 细金宽圆框",
+      "time": 6.6505,
+      "referenceLabel": "细金宽圆框",
+      "sourceFrameIndices": [
+        47,
+        78
+      ],
+      "reference_times": [
+        6.6505,
+        7.6838
+      ]
+    },
+    {
+      "width": 54,
+      "height": 43,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 2.6,
+      "shape": "cat-eye",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.25,
+      "design": "cat",
+      "taper": 0.08,
+      "id": "tim-44",
+      "label": "44 · 黑色上扬波士顿",
+      "time": 6.6838,
+      "referenceLabel": "黑色上扬波士顿",
+      "sourceFrameIndices": [
+        48,
+        79
+      ],
+      "reference_times": [
+        6.6838,
+        7.7172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 40,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 2.9,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.49,
+        0.38,
+        0.23
+      ],
+      "palette": "gold",
+      "color": "浅金",
+      "material": "细金属外观",
+      "metal": 0.86,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "id": "tim-45",
+      "label": "45 · 浅金柔方框",
+      "time": 6.7172,
+      "referenceLabel": "浅金柔方框",
+      "sourceFrameIndices": [
+        49,
+        80
+      ],
+      "reference_times": [
+        6.7172,
+        7.7505
+      ]
+    },
+    {
+      "width": 53,
+      "height": 39,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 2.15,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.28,
+        0.21,
+        0.12
+      ],
+      "palette": "gold",
+      "color": "古金",
+      "material": "细金属外观",
+      "metal": 0.86,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "rim": 0.85,
+      "templeRadius": 0.85,
+      "id": "tim-46",
+      "label": "46 · 古金椭圆框",
+      "time": 6.7505,
+      "referenceLabel": "古金椭圆框",
+      "sourceFrameIndices": [
+        50,
+        81
+      ],
+      "reference_times": [
+        6.7505,
+        7.7838
+      ]
+    },
+    {
+      "width": 56,
+      "height": 44,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 3.1,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.72,
+      "design": "browline",
+      "browRim": 1.8,
+      "id": "tim-47",
+      "label": "47 · 黑眉宽方框",
+      "time": 6.7838,
+      "referenceLabel": "黑眉宽方框",
+      "sourceFrameIndices": [
+        51
+      ],
+      "reference_times": [
+        6.7838
+      ]
+    },
+    {
+      "width": 54,
+      "height": 39,
+      "gap": 21,
+      "temple_length": 140,
+      "exponent": 2.4,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "黑金",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.65,
+      "design": "browline",
+      "browRim": 1.3,
+      "id": "tim-48",
+      "label": "48 · 黑金细眉椭圆",
+      "time": 6.8172,
+      "referenceLabel": "黑金细眉椭圆",
+      "sourceFrameIndices": [
+        52
+      ],
+      "reference_times": [
+        6.8172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 41,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 2.5,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.35,
+      "id": "tim-49",
+      "label": "49 · 细黑柔椭圆",
+      "time": 6.8505,
+      "referenceLabel": "细黑柔椭圆",
+      "sourceFrameIndices": [
+        53
+      ],
+      "reference_times": [
+        6.8505
+      ]
+    },
+    {
+      "width": 53,
+      "height": 30,
+      "gap": 22,
+      "temple_length": 140,
+      "exponent": 3.4,
+      "shape": "rimless",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "无框镜片与细金属支架外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.7,
+      "templeRadius": 0.85,
+      "design": "rimless",
+      "id": "tim-50",
+      "label": "50 · 无框纤细矩形",
+      "time": 6.8838,
+      "referenceLabel": "无框纤细矩形",
+      "sourceFrameIndices": [
+        54
+      ],
+      "reference_times": [
+        6.8838
+      ]
+    },
+    {
+      "width": 54,
+      "height": 42,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 2.8,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.25,
+        0.12,
+        0.045
+      ],
+      "palette": "brown",
+      "color": "烟茶棕",
+      "material": "半透明醋酸纤维外观",
+      "alpha": 0.58,
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.65,
+      "id": "tim-51",
+      "label": "51 · 琥珀透明圆方",
+      "time": 6.9172,
+      "referenceLabel": "琥珀透明圆方",
+      "sourceFrameIndices": [
+        55
+      ],
+      "reference_times": [
+        6.9172
+      ]
+    },
+    {
+      "width": 55,
+      "height": 34,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 3.7,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "细黑金属外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.95,
+      "metal": 0.65,
+      "templeRadius": 0.9,
+      "id": "tim-52",
+      "label": "52 · 细黑金属矩形",
+      "time": 6.9505,
+      "referenceLabel": "细黑金属矩形",
+      "sourceFrameIndices": [
+        56
+      ],
+      "reference_times": [
+        6.9505
+      ]
+    },
+    {
+      "width": 48,
+      "height": 40,
+      "gap": 31,
+      "temple_length": 140,
+      "exponent": 2,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.25,
+      "id": "tim-53",
+      "label": "53 · 小黑正圆框",
+      "time": 6.9838,
+      "referenceLabel": "小黑正圆框",
+      "sourceFrameIndices": [
+        57
+      ],
+      "reference_times": [
+        6.9838
+      ]
+    },
+    {
+      "width": 53,
+      "height": 39,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 2.4,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.75,
+      "taper": 0.06,
+      "id": "tim-54",
+      "label": "54 · 黑色扁圆波士顿",
+      "time": 7.0172,
+      "referenceLabel": "黑色扁圆波士顿",
+      "sourceFrameIndices": [
+        58
+      ],
+      "reference_times": [
+        7.0172
+      ]
+    },
+    {
+      "width": 56,
+      "height": 45,
+      "gap": 17,
+      "temple_length": 140,
+      "exponent": 2.35,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.66,
+        0.72,
+        0.75
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.43,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 2.3,
+      "taper": 0.07,
+      "id": "tim-55",
+      "label": "55 · 水晶大波士顿",
+      "time": 7.0505,
+      "referenceLabel": "水晶大波士顿",
+      "sourceFrameIndices": [
+        59
+      ],
+      "reference_times": [
+        7.0505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 40,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 3.3,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.9,
+      "design": "browline",
+      "browRim": 1.55,
+      "id": "tim-56",
+      "label": "56 · 银底黑眉方框",
+      "time": 7.0838,
+      "referenceLabel": "银底黑眉方框",
+      "sourceFrameIndices": [
+        60
+      ],
+      "reference_times": [
+        7.0838
+      ]
+    },
+    {
+      "width": 52,
+      "height": 37,
+      "gap": 24,
+      "temple_length": 140,
+      "exponent": 2.4,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.49,
+        0.38,
+        0.23
+      ],
+      "palette": "gold",
+      "color": "浅金",
+      "material": "细金属外观",
+      "metal": 0.86,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "rim": 0.68,
+      "templeRadius": 0.85,
+      "id": "tim-57",
+      "label": "57 · 细金小椭圆",
+      "time": 7.1172,
+      "referenceLabel": "细金小椭圆",
+      "sourceFrameIndices": [
+        61
+      ],
+      "reference_times": [
+        7.1172
+      ]
+    },
+    {
+      "width": 55,
+      "height": 43,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 2.8,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.49,
+        0.38,
+        0.23
+      ],
+      "palette": "gold",
+      "color": "浅金",
+      "material": "细金属外观",
+      "metal": 0.86,
+      "styles": [
+        "minimal",
+        "classic"
+      ],
+      "rim": 0.68,
+      "templeRadius": 0.85,
+      "id": "tim-58",
+      "label": "58 · 细金大圆方",
+      "time": 7.1505,
+      "referenceLabel": "细金大圆方",
+      "sourceFrameIndices": [
+        62
+      ],
+      "reference_times": [
+        7.1505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 38,
+      "gap": 21,
+      "temple_length": 140,
+      "exponent": 3.0,
+      "shape": "browline",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "深色眉架与细金属下框外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 0.8,
+      "design": "browline",
+      "browRim": 1.25,
+      "id": "tim-59",
+      "label": "59 · 黑银柔方框",
+      "time": 7.1838,
+      "referenceLabel": "黑银柔方框",
+      "sourceFrameIndices": [
+        63
+      ],
+      "reference_times": [
+        7.1838
+      ]
+    },
+    {
+      "width": 53,
+      "height": 35,
+      "gap": 23,
+      "temple_length": 140,
+      "exponent": 2.25,
+      "shape": "oval",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.4,
+        0.42,
+        0.7
+      ],
+      "palette": "blue",
+      "color": "淡紫透明",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.48,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.45,
+      "id": "tim-60",
+      "label": "60 · 淡紫透明椭圆",
+      "time": 7.2172,
+      "referenceLabel": "淡紫透明椭圆",
+      "sourceFrameIndices": [
+        64
+      ],
+      "reference_times": [
+        7.2172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 36,
+      "gap": 21,
+      "temple_length": 140,
+      "exponent": 3.0,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "细黑金属与金色细节外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.05,
+      "metal": 0.52,
+      "id": "tim-61",
+      "label": "61 · 黑金柔角矩形",
+      "time": 7.2505,
+      "referenceLabel": "黑金柔角矩形",
+      "sourceFrameIndices": [
+        65
+      ],
+      "reference_times": [
+        7.2505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 44,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 2.1,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.65,
+        0.59,
+        0.43
+      ],
+      "palette": "clear",
+      "color": "透明冷灰",
+      "material": "透明醋酸纤维外观",
+      "alpha": 0.46,
+      "styles": [
+        "minimal",
+        "creative"
+      ],
+      "rim": 1.5,
+      "id": "tim-62",
+      "label": "62 · 晶透金边圆框",
+      "time": 7.2838,
+      "referenceLabel": "晶透金边圆框",
+      "sourceFrameIndices": [
+        66
+      ],
+      "reference_times": [
+        7.2838
+      ]
+    },
+    {
+      "width": 52,
+      "height": 41,
+      "gap": 24,
+      "temple_length": 140,
+      "exponent": 2.2,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 1.5,
+      "studs": true,
+      "taper": 0.06,
+      "id": "tim-63",
+      "label": "63 · 黑金弧线波士顿",
+      "time": 7.3172,
+      "referenceLabel": "黑金弧线波士顿",
+      "sourceFrameIndices": [
+        67,
+        85
+      ],
+      "reference_times": [
+        7.3172,
+        7.9172
+      ]
+    },
+    {
+      "width": 56,
+      "height": 43,
+      "gap": 17,
+      "temple_length": 140,
+      "exponent": 4.0,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 3.0,
+      "taper": 0.055,
+      "id": "tim-64",
+      "label": "64 · 宽厚黑色方框",
+      "time": 7.3505,
+      "referenceLabel": "宽厚黑色方框",
+      "sourceFrameIndices": [
+        68,
+        86
+      ],
+      "reference_times": [
+        7.3505,
+        7.9505
+      ]
+    },
+    {
+      "width": 54,
+      "height": 33,
+      "gap": 21,
+      "temple_length": 140,
+      "exponent": 3.7,
+      "shape": "rectangle",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.48,
+        0.52,
+        0.56
+      ],
+      "palette": "silver",
+      "color": "银灰",
+      "material": "细金属外观",
+      "metal": 0.88,
+      "styles": [
+        "minimal"
+      ],
+      "rim": 0.72,
+      "templeRadius": 0.85,
+      "id": "tim-65",
+      "label": "65 · 细银矩形框",
+      "time": 7.3838,
+      "referenceLabel": "细银矩形框",
+      "sourceFrameIndices": [
+        69
+      ],
+      "reference_times": [
+        7.3838
+      ]
+    },
+    {
+      "width": 55,
+      "height": 44,
+      "gap": 18,
+      "temple_length": 140,
+      "exponent": 2.2,
+      "shape": "cat-eye",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "墨黑",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "classic"
+      ],
+      "rim": 2.1,
+      "design": "cat",
+      "taper": 0.08,
+      "id": "tim-66",
+      "label": "66 · 黑色大上扬圆框",
+      "time": 7.4172,
+      "referenceLabel": "黑色大上扬圆框",
+      "sourceFrameIndices": [
+        70
+      ],
+      "reference_times": [
+        7.4172
+      ]
+    },
+    {
+      "width": 54,
+      "height": 45,
+      "gap": 20,
+      "temple_length": 140,
+      "exponent": 2.1,
+      "shape": "round",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.9,
+        0.9,
+        0.86
+      ],
+      "palette": "white",
+      "color": "象牙白 / 酒红镜片",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "rim": 3.2,
+      "lens": "wine",
+      "id": "tim-67",
+      "label": "67 · 白色圆太阳镜",
+      "time": 7.4505,
+      "referenceLabel": "白色圆太阳镜",
+      "sourceFrameIndices": [
+        71
+      ],
+      "reference_times": [
+        7.4505
+      ]
+    },
+    {
+      "width": 55,
+      "height": 41,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 3.5,
+      "shape": "square",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.86,
+        0.89,
+        0.9
+      ],
+      "palette": "white",
+      "color": "冷白 / 烟色镜片",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "bold",
+        "creative"
+      ],
+      "rim": 3.1,
+      "lens": "dark",
+      "id": "tim-68",
+      "label": "68 · 白色方太阳镜",
+      "time": 7.4838,
+      "referenceLabel": "白色方太阳镜",
+      "sourceFrameIndices": [
+        72
+      ],
+      "reference_times": [
+        7.4838
+      ]
+    },
+    {
+      "width": 55,
+      "height": 35,
+      "gap": 19,
+      "temple_length": 140,
+      "exponent": 2.7,
+      "shape": "cat-eye",
+      "cy": -11,
+      "description": "依据逐帧正面外观近似重建；相近款式可能属于同一商品，作为外观变体保留。侧面结构、毫米尺寸与镜片材质为示意，未复制品牌标识。",
+      "rgb": [
+        0.006,
+        0.007,
+        0.009
+      ],
+      "palette": "black",
+      "color": "黑框 / 烟色镜片",
+      "material": "醋酸纤维外观",
+      "styles": [
+        "bold",
+        "classic"
+      ],
+      "rim": 2.8,
+      "design": "cat",
+      "lens": "dark",
+      "id": "tim-69",
+      "label": "69 · 黑色上扬太阳镜",
+      "time": 7.5172,
+      "referenceLabel": "黑色上扬太阳镜",
+      "sourceFrameIndices": [
+        73
+      ],
+      "reference_times": [
+        7.5172
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "eyewear-assistant",
+  "account_id": "02eadb9a36cb7cb7a24bb3847a38ca93",
+  "compatibility_date": "2026-11-24",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    { "pattern": "e.ilove-gis.com", "custom_domain": true }
+  ]
+}
